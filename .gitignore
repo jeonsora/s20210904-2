@@ -1,0 +1,10 @@
+.lock
+.log
+.plugins
+.mvn
+\version.ini
+.settings
+Servers
+\mvnw
+\mvnw.cmd
+.mylyn
